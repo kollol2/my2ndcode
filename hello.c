@@ -2,6 +2,6 @@
 int main () 
 {
     printf("this is the new began, with joy and sorrow");
-    scanf("how to write");
+    scanf("how to write" && printf("hello"));
     return 0;
 }
